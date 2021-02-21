@@ -6,3 +6,6 @@ theme = "hallo"
 [Author]
     name = "Stop,"
 
+[params]
+    greeting = "Greetings!"
+
