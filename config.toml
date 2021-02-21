@@ -4,8 +4,8 @@ title = "Stop, Listen: A Public Art Project"
 theme = "hallo"
 
 [Author]
-    name = "Stop,"
+    name = "a public art installation within Banyule City Council"
 
 [params]
-    greeting = "Greetings!"
+    greeting = "Stop, Listen"
 
