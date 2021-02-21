@@ -2,4 +2,5 @@ baseURL = "https://stoplisten.space"
 languageCode = "en-us"
 title = "Stop, Listen: A Public Art Project"
 theme = "hallo"
+name = "Stop,"
 
